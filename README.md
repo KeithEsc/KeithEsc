@@ -1,6 +1,3 @@
-Hello, my name is Keith Esclavon
-===============================
-
 * 🌍  I'm based in Tennessee
 * 🖥️  See my portfolio at [My Portfolio](http://keithesc.vercel.app)
 * ✉️  You can contact me at [keithesc@gmail.com](mailto:keithesc@gmail.com)
