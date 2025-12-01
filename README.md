@@ -4,13 +4,13 @@
 * See my portfolio at [My Portfolio](http://keithesc.vercel.app)
 * You can contact me at [keithesc@gmail.com](mailto:keithesc@gmail.com)
 
-### Skills
+<u>### Skills</u>
 
 **Fundamentals:** HTML, CSS, Javascript, SQL
 
 **Flavor:** Astro, Vite, Tailwind
 
-### Socials
+<u>### Socials</u>
 
 * <a href="https://www.linkedin.com/in/keith-esclavon" target="_blank" rel="noreferrer">LinkedIn</a>
 * <a href="https://discord.com/users/keithesc" target="_blank" rel="noreferrer">Discord</a>
