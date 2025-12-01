@@ -14,9 +14,9 @@
 
 ### Socials
 
-<a href="https://www.linkedin.com/in/keith-esclavon" target="_blank" rel="noreferrer">
-<a href="https://discord.com/users/keithesc" target="_blank" rel="noreferrer">
-<a href="https://www.github.com/keithesc" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/keith-esclavon" target="_blank" rel="noreferrer">LinkedIn</a>
+<a href="https://discord.com/users/keithesc" target="_blank" rel="noreferrer">Discord</a>
+<a href="https://www.github.com/keithesc" target="_blank" rel="noreferrer">Github</a>
 
 
 ### Badges
