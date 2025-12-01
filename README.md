@@ -6,14 +6,14 @@
 
 ### Skills
 
-* HTML
-* CSS
-* Javascript
-* SQL
+- HTML
+- CSS
+Javascript
+SQL
 
-* Astro
-* Vite
-* Tailwind
+Astro
+Vite
+Tailwind
 
 ### Socials
 
