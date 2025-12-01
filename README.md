@@ -6,9 +6,9 @@
 
 ### Skills
 
-Fundamentals: HTML, CSS, Javascript, SQL
+**Fundamentals:** HTML, CSS, Javascript, SQL
 
-Extras: Astro, Vite, Tailwind
+**Flavor:** Astro, Vite, Tailwind
 
 ### Socials
 
